@@ -95,7 +95,7 @@ txt.tag_config('three', background='white', foreground='green')
 
 #------------------- Image ---------------#
 
-photo = PhotoImage(file="/storage/emulated/0/python/project/min-app/gui_tkinter/net_sec/image_net.png")
+photo = PhotoImage(file="image_net.png")
 
 panel = Label(app, image=photo)
 
